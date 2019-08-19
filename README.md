@@ -1,8 +1,6 @@
 # Predicting Pneumonia Using Deep Learning
 
-
-Pneumonia Detector is a convolutional neural network that can detect if a patient has has Pneumonia using his/her chest X-ray image. I used the following dataset from kaggle.com to train, validate and test my model. 
-
+I used the following dataset from kaggle.com to train, validate and test my model. 
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 ## Model 
